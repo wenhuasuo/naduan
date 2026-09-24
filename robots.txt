@@ -1,0 +1,20 @@
+# ============================
+#  Trusted AI & Search Engines
+# ============================
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: bingbot
+User-agent: ClaudeBot
+User-agent: Claude-Web
+User-agent: Google-Extended
+User-agent: Googlebot-Mobile
+User-agent: Googlebot
+User-agent: GPTBot
+User-agent: ChatGPT-User
+Allow: /
+
+# ============================
+#  Block All Others
+# ============================
+User-agent: *
+Disallow: /
